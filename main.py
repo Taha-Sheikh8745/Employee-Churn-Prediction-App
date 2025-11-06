@@ -49,4 +49,4 @@ if st.button('Predict'):
     st.write(f'The Prediction is **{prediction}**, Hence customer is **{prediction_translate}** to churn.')
 
 
-st.caption("Developed by Muhammad Taha ")
+st.subheader('Developed by Muhammad Taha')
