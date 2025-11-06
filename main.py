@@ -47,3 +47,6 @@ if st.button('Predict'):
     translation_dict = {"Yes": "Expected", "No": "Not Expected"}
     prediction_translate = translation_dict.get(prediction)
     st.write(f'The Prediction is **{prediction}**, Hence customer is **{prediction_translate}** to churn.')
+
+
+st.caption("Developed by Muhammad Taha ")
