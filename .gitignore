@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Bytecode cache
+__pycache__/
+*.pyc
+
+# System / editor files
+.DS_Store
+.vscode/
